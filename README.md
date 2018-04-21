@@ -97,6 +97,6 @@ cd
 
 cd Tellion
 
-sudo qmake tellion-qt.pro
+sudo qmake tellion-tll.pro
 
 sudo make -jnumofcoreshere
