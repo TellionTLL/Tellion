@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=TLL
+Comment=TLL P2P Cryptocurrency
+Comment[fr]=TLL, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=TLL, eşten eşe kriptografik sanal para birimi
+Exec=tellion-qt %u
+Terminal=false
+Type=Application
+Icon=tellion128
+MimeType=x-scheme-handler/tellion;
+Categories=Office;Finance;
