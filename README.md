@@ -1,17 +1,12 @@
-# Tellion
+# Tellion-TLL A Coin Backed by A Business.
+
+We aim to bring the forefront of PC & Cryptography Technology to the world alike
+
 Build Daemon and GUI Wallets with Below Information until this area states otherwise.
+
 
 UNIX BUILD NOTES
 ====================
-Some notes on how to build Tellion in Unix.
-
-Copyright (c) 2018 The Tellion Developers
-Distributed under the MIT/X11 software license, see the accompanying
-file license.txt or http://www.opensource.org/licenses/mit-license.php.
-This product includes software developed by the OpenSSL Project for use in
-the OpenSSL Toolkit (http://www.openssl.org/).  This product includes
-cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP
-software written by Thomas Bernard.
 
 To Build Headless
 -----------------
@@ -97,6 +92,6 @@ cd
 
 cd Tellion
 
-sudo qmake tellion-tll.pro
+sudo qmake Tellion-TLL.pro
 
 sudo make -jnumofcoreshere
