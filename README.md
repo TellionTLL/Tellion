@@ -2,8 +2,6 @@
 
 We aim to bring the forefront of PC & Cryptography Technology to the world alike
 
-Build Daemon and GUI Wallets with Below Information until this area states otherwise.
-
 
 UNIX BUILD NOTES
 ====================
