@@ -24,7 +24,7 @@ sudo apt-get install libdb4.8-dev libdb4.8++-dev
 
 sudo apt-get install libqrencode-dev
 
-git clone https://github.com/Tellion/Tellion.git
+git clone https://github.com/TellionTLL/Tellion.git
 cd Tellion/src/secp256k1
 chmod +x autogen.sh
 sudo ./autogen.sh
@@ -55,7 +55,7 @@ sudo apt-get install libdb4.8-dev libdb4.8++-dev
 
 sudo apt-get install libqrencode-dev
 
-git clone https://github.com/Tellion/Tellion.git
+git clone https://github.com/TellionTLL/Tellion.git
 cd Tellion/src/secp256k1
 chmod +x autogen.sh
 sudo ./autogen.sh
