@@ -14,7 +14,7 @@ We aim to achieve a foothold into Cryptography and the coins associated with it 
 UNIX BUILD NOTES
 ====================
 
-To Build Headless
+To Build Tellion Headless 
 -----------------
 
 sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils
@@ -62,7 +62,7 @@ LD_LIBRARY_PATH=/usr/local/lib
 export LD_LIBRARY_PATH
 
 
-To Build Qt Wallet
+To Build Tellion-TLL Qt Wallet
 ------------------
 
 sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils
